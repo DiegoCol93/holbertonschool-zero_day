@@ -1,0 +1,1 @@
+Vagrant and basic set up of the VM, usage of uname
